@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EscolaLinguas</string>
+    <string name="valor1">Inglês</string>
+    <string name="valor2">Espanhol</string>
+    <string name="valor3">A VISTA</string>
+    <string name="valor4">CALCULAR</string>
+    <string name="valor5">RESULTADO:</string>
+</resources>

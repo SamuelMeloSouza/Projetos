@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B5D8CE"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <CheckBox
+        android:id="@+id/checkBoxIngles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/valor1" />
+
+    <CheckBox
+        android:id="@+id/checkBoxEspanhol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/valor2" />
+
+    <CheckBox
+        android:id="@+id/checkBoxAvista"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/valor3" />
+
+    <Button
+        android:id="@+id/buttonCalcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/valor4" />
+
+    <TextView
+        android:id="@+id/textViewResultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/valor5"
+        android:text="@string/valor5" />
+</LinearLayout>

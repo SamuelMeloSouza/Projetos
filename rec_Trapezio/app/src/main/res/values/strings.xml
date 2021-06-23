@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">rec_Trapezio</string>
+    <string name="titulo">Trapezio</string>
+    <string name="texto_valor1">base menor</string>
+    <string name="texto_valor2">base maior</string>
+    <string name="texto_valor3">Altura</string>
+    <string name="btn">Calcular</string>
+    <string name="texto_valor4">Resultado</string>
+
+
+</resources>
