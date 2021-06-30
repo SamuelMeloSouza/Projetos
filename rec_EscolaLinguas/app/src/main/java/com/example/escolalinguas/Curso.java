@@ -23,10 +23,11 @@ public class Curso {
             total = 1400.00;
             if (tipoPagamento.equals("AVISTA")) total = 1400.00 * 0.9;
             return total;
-        } else{
-            total = 1200.00;
-            if (tipoPagamento.equals("AVISTA")) total = 1200.00 * 0.9;
-            return total;
+        } else {
+                total = 1200.00;
+                if (tipoPagamento.equals("AVISTA")) total = 1200.00 * 0.9;
+                return total;
+            }
         }
     }
 }

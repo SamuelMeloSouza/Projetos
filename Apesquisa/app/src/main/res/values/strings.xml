@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Apesquisa</string>
+    <string name="valor1">Nome</string>
+    <string name="valor2"></string>
+    <string name="valor3">Masculino</string>
+    <string name="valor4">Feminino</string>
+    <string name="valor5">Resultado</string>
+    <string name="valor6">Mostrar</string>
+    <string name="valor7">Nova Pesquisa</string>
+    <string-array name="spinner_valor">
+        <item>Norte</item>
+        <item>Sul</item>
+        <item>CentroOeste</item>
+        <item>Suldeste</item>
+        <item>Nordeste</item>
+    </string-array>
+</resources>
